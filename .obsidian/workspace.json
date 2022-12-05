@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "e2e0eb60d1086927",
+    "type": "split",
+    "children": [
+      {
+        "id": "564f48f9072d8228",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27c4ef80f17e2916",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "记一次K8S下部署Prometheus和Grafana监控Web应用实践.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83887dd71e6a71ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "记一次K8S中部署有状态应用.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91e1b53884399dc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c7dcd4bb9fe164f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "556e643c6ea4b01a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1bc2dbd16dba11bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "58675e60c4254646",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "06e92c78a8d98b71",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ba051ee7301a041",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8f7b5474e01bc32",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "记一次K8S中部署有状态应用.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d5553787dd58dfad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "记一次K8S中部署有状态应用.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "88bd65094e616648",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cc4e664d2f72e841",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "记一次K8S中部署有状态应用.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200.5
+  },
+  "active": "83887dd71e6a71ef",
+  "lastOpenFiles": [
+    "记一次K8S下部署Prometheus和Grafana监控Web应用实践.md",
+    "记一次K8S中部署有状态应用.md",
+    "记一次K8S下部署Prometheus和Grafana监控Web应用.md",
+    "记一次Kubernetes实践.md",
+    "().md",
+    "KubeDiag实践记录.md",
+    "images/记一次K8S实践/k8s-check.png.md",
+    "2022-11-20.md"
+  ]
+}
